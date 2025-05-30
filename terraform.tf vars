@@ -1,5 +1,4 @@
-aws_region = "us-east-1"
-ami_id = "ami-0e58b56aa4d64231b"
+aws_region = "ap-south-1"
+ami_id = "ami-0af9569868786b23a"
 instance_type = "t2.micro"
-vpc_id = "vpc-0f0c9dae742d17040"
-key_name = "test"
+key_name = "mumbai.key"
